@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/MYtictactoe/static/js/main.065661f8.chunk.js",
+    "main.js.map": "/MYtictactoe/static/js/main.065661f8.chunk.js.map",
+    "runtime-main.js": "/MYtictactoe/static/js/runtime-main.1411f130.js",
+    "runtime-main.js.map": "/MYtictactoe/static/js/runtime-main.1411f130.js.map",
+    "static/js/2.268e7daf.chunk.js": "/MYtictactoe/static/js/2.268e7daf.chunk.js",
+    "static/js/2.268e7daf.chunk.js.map": "/MYtictactoe/static/js/2.268e7daf.chunk.js.map",
+    "index.html": "/MYtictactoe/index.html",
+    "static/js/2.268e7daf.chunk.js.LICENSE.txt": "/MYtictactoe/static/js/2.268e7daf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1411f130.js",
+    "static/js/2.268e7daf.chunk.js",
+    "static/js/main.065661f8.chunk.js"
+  ]
+}
